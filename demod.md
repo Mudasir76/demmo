@@ -1,3 +1,5 @@
 hello
 
-how are you
+how are
+
+how is your day
